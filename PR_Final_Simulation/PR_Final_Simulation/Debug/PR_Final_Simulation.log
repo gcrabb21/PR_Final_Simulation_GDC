@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\rannu\onedrive\documents\visual studio 2015\projects\pr_final_simulation\pr_final_simulation\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PR_Final_Simulation.vcxproj -> c:\users\rannu\onedrive\documents\visual studio 2015\Projects\PR_Final_Simulation\Debug\PR_Final_Simulation.exe
+  PR_Final_Simulation.vcxproj -> c:\users\rannu\onedrive\documents\visual studio 2015\Projects\PR_Final_Simulation\Debug\PR_Final_Simulation.pdb (Full PDB)
